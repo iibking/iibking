@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iibking
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning blockchain develoment
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
